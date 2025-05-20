@@ -6,6 +6,9 @@
 /storage/*.key
 /storage/pail
 /vendor
+!/public/css/
+!/public/img/
+
 .env
 .env.backup
 .env.production
